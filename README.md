@@ -1,5 +1,5 @@
 # Data Analytics Resources
 ## Articles
-[AYSO website](https://ayso1533.org)
+[W3 Schools R Tutorial](https://www.w3schools.com/R/)
 
 [Weber State University](https://weber.edu)
