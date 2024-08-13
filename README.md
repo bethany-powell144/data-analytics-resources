@@ -5,7 +5,7 @@
 
 [What is Data Analytics?](https://aws.amazon.com/what-is/data-analytics/)
 
-[Weber State University](https://weber.edu)
+[Weber State University Masters of Data Science Program](https://www.weber.edu/msds/default.html)
 
 [W3 Schools R Tutorial](https://www.w3schools.com/R/)
 
