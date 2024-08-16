@@ -1,6 +1,8 @@
 # Data Analytics Resources
 ## Articles
 
+[7 Tips to Buikd Your GitHub Profile Like a Pro](https://dev.to/quira/7-tips-to-build-your-github-profile-like-a-pro-38bg)
+
 [Python vs. R: Which is better for data science?](https://www.ionos.com/digitalguide/websites/web-development/python-vs-r/#:~:text=They're%20both%20very%20powerful,offer%20you%20far%20more%20possibilities.)
 
 [Useful R Commands](https://sites.calvin.edu/scofield/courses/m143/materials/RcmdsFromClass.pdf)
