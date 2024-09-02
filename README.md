@@ -15,5 +15,6 @@
 [W3 Schools R Tutorial](https://www.w3schools.com/R/)
 
 ## Cool Stuff
-I can't stop smiling when I hear [this song](https://www.youtube.com/watch?v=HgzGwKwLmgM)
+
+I can't stop smiling when I hear <a href="https://www.youtube.com/watch?v=HgzGwKwLmgM" target="_blank">this song</a>. (opens in a new tab)
 
