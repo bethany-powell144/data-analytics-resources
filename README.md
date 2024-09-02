@@ -16,5 +16,5 @@
 
 ## Cool Stuff
 
-I can't stop smiling when I hear <a href="https://www.youtube.com/watch?v=HgzGwKwLmgM" target="_blank">this song</a>. (opens in a new tab)
+I can't stop smiling when I hear <a href="https://www.youtube.com/watch?v=HgzGwKwLmgM" target="_blank">this song</a>. (doesn't open in a new tab, even though it should)
 
